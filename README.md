@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey Kuznetsov</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **React, Next.js**
+
 
 - 📫 How to reach me **kuznetsovv.av@gmail.com**
 
